@@ -1,2 +1,3 @@
 # Hello-World-learning
-learning how to use github and git/fist steps
+learning how to use github and git/first steps
+Learning how to branch and make changes. Hopefully it will work.
